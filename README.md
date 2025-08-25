@@ -14,10 +14,9 @@
 <div align="center">
 
 <pre>
-🏴‍☠️ TryHackMe league grinder, always chasing flags  
-🕶️ Spends the day on cybersecurity, the night on code  
-🤝 Best friend: <code><a href="https://github.com/xeyossr">@xeyossr</a></code>  
-💽 Setup: EndeavourOS 🐧 + Windows 🪟  
+🏴‍☠️ Portswigger master, constantly destroying labs
+🕶️ Devotes himself to cybersecurity by day and coding by night  
+💽 Setup: EndeavourOS 🐧 + 
 </pre>
 
 ![discord](https://dsc-readme.tsuni.dev/api/user/1241036702823223417)
